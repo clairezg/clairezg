@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on anything that can teach me something new about working with data.
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I write articles on [Medium](Medium)
 
 - 💬 Ask me about **SQL and data transformations**
 
